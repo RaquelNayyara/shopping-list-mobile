@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 https://install.appcenter.ms/orgs/ayobeli/apps/shopping-list/distribution_groups/public
+[![Build status](https://build.appcenter.ms/v0.1/apps/488201a0-6905-4bb6-9763-29cfb4ea226f/branches/main/badge)](https://appcenter.ms)
